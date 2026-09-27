@@ -1,0 +1,10 @@
+{
+  "name": "歴史探検クエスト",
+  "short_name": "歴史探検",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf4",
+  "theme_color": "#fff7ed",
+  "lang": "ja",
+  "description": "中学受験向け 日本史クイズ：旧石器から飛鳥まで"
+}
